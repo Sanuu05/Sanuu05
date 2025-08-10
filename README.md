@@ -68,7 +68,7 @@ I craft **clean, maintainable code** and turn complex problems into smooth, func
 ## 📈 My GitHub at a Glance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanuu05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
