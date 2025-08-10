@@ -57,6 +57,14 @@ I craft **clean, maintainable code** and turn complex problems into smooth, func
 
 ---
 
+## 🎯 Fun Facts  
+
+- 🍕 Fuelled by coffee and the occasional pizza  
+- 🧠 Can debug faster than I can find my headphones  
+- 🌍 Love exploring new cities and cultures  
+- 🎵 Code sessions powered by lo-fi beats  
+
+
 ## 📈 My GitHub at a Glance  
 
 <p align="center">
